@@ -1,5 +1,5 @@
 Install it with this:
-	$ go get github.com/ehmry/monero/monero-vanity
+	$ go get github.com/ehmry/monero-vanity
 
 Run the test against simplewallet with 'make test'
 or 'expect test.exp <number of iterations>'.
